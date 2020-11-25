@@ -1,0 +1,21 @@
+.container-fluid {
+  background-image: url("images/fisioterapia2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.navbar-light .navbar-brand {
+  color: darkblue;
+  font-weight: bolder;
+  font-size: 42px;
+  margin-right: 70px;
+}
+.navbar-light .navbar-nav .nav-link {
+  margin-right: 25px;
+  color: Navy;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=output.css.map */
